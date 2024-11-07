@@ -59,6 +59,3 @@ metadata/_edit_group_ = true
 y_sort_enabled = true
 texture = ExtResource("2_tpssf")
 metadata/_edit_group_ = true
-
-[node name="TileMap" type="TileMap" parent="."]
-format = 2
